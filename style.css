@@ -1,0 +1,93 @@
+/* Set the background color of the body */
+body {
+    background-color: #f7f7f7;
+  }
+  
+  /* Style the page heading */
+  h1 {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Style the search bar */
+  #search {
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  #search-input {
+    width: 400px;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style the table */
+  #table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  #table th {
+    background-color: #333;
+    color: #fff;
+    text-align: left;
+    padding: 10px;
+  }
+  
+  #table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  /* Style the form */
+  #add-form {
+    margin: 20px auto;
+    width: 500px;
+  }
+  
+  #add-form h2 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+  }
+  
+  #add-form form {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #add-form label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  #add-form input[type="text"], #add-form input[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #add-form input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  #add-form input[type="submit"]:hover {
+    background-color: #555;
+  }
+  
+  
